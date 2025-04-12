@@ -1,0 +1,7 @@
+ultralytics
+torch
+torchvision
+torchaudio
+numpy
+filterpy==1.4.5
+scikit-image
