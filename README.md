@@ -88,7 +88,7 @@ A single row is logged per video **only if** tailgating events are detected:
 Saved to:
 
 ```bash
-logs/tailgating_summary.csv
+logs/tailgating_summary.csv'''
 
 ## Future Improvements
  - Replacing SORT with DeepSORT for more reliable tracking
