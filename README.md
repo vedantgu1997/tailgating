@@ -17,7 +17,7 @@ This system uses:
 
 ## 🎯 Goal
 
-Detect and log events where **two individuals enter a door region within a short time window** (default: 3 seconds), potentially indicating a tailgating violation.
+Detect and log events where **two or more individuals enter a door region within a short time window** (default: 3 seconds), potentially indicating a tailgating violation.
 
 ---
 
@@ -91,5 +91,4 @@ Saved to:
 
 ## Future Improvements
  - Replacing SORT with DeepSORT for more reliable tracking
- - Replacing the rule-based system with a classifier trained on track trajectories.
- 
+ - Replacing the rule-based system with a classifier trained on object tracking trajectories.
