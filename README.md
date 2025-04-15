@@ -87,9 +87,9 @@ A single row is logged per video **only if** tailgating events are detected:
 
 Saved to:
 
-```bash
-logs/tailgating_summary.csv'''
+`logs/tailgating_summary.csv`
 
 ## Future Improvements
  - Replacing SORT with DeepSORT for more reliable tracking
- - Replacing the rule-based system with a classifier trained on trajectories obtained from DeepSORT and door position.
+ - Replacing the rule-based system with a classifier trained on track trajectories.
+ 
