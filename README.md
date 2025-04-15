@@ -90,5 +90,6 @@ Saved to:
 `logs/tailgating_summary.csv`
 
 ## Future Improvements
- - Replacing SORT with DeepSORT for more reliable tracking
+ - Replacing SORT with DeepSORT for more reliable tracking.
  - Replacing the rule-based system with a classifier trained on object tracking trajectories.
+ - Including data from access logs.
